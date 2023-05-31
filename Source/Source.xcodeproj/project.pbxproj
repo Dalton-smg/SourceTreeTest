@@ -16,6 +16,7 @@
 		5C2695242A120CC30096397D /* SourceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C2695232A120CC30096397D /* SourceTests.swift */; };
 		5C26952E2A120CC30096397D /* SourceUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C26952D2A120CC30096397D /* SourceUITests.swift */; };
 		5C2695302A120CC30096397D /* SourceUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C26952F2A120CC30096397D /* SourceUITestsLaunchTests.swift */; };
+		5CD45D832A27587400A34A97 /* TagFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD45D822A27587400A34A97 /* TagFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		5C2695292A120CC30096397D /* SourceUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SourceUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5C26952D2A120CC30096397D /* SourceUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceUITests.swift; sourceTree = "<group>"; };
 		5C26952F2A120CC30096397D /* SourceUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5CD45D822A27587400A34A97 /* TagFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TagFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 			isa = PBXGroup;
 			children = (
 				5C26950C2A120CC20096397D /* AppDelegate.swift */,
+				5CD45D822A27587400A34A97 /* TagFile.swift */,
 				5C26950E2A120CC20096397D /* SceneDelegate.swift */,
 				5C2695102A120CC20096397D /* ViewController.swift */,
 				5C2695122A120CC20096397D /* Main.storyboard */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5CD45D832A27587400A34A97 /* TagFile.swift in Sources */,
 				5C2695112A120CC20096397D /* ViewController.swift in Sources */,
 				5C26950D2A120CC20096397D /* AppDelegate.swift in Sources */,
 				5C26950F2A120CC20096397D /* SceneDelegate.swift in Sources */,
